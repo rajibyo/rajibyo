@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajibrahman74&label=Profile%20views&color=0e75b6&style=flat" alt="rajibrahman74" /> </p>
 
 - 🌱 I’m currently learning **Frontend Development**
+- 📫 How to reach me **rajiburrahman74@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
