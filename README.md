@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,Bootstrap**
 
-- 📫 How to reach me **rajiburrahman74@gmail.com**
+- 📫 How to reach me **<i class="fa fa-envelope" style="font-size:36px"> <a href="rajiburrahman74@gmail.com"></a></i>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
