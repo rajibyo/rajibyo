@@ -1,5 +1,5 @@
 <h1 align="left">Hey!🙋‍♂️ Assalamualaikum, I'm Rajib Rahman</h1>
-<h3 align="center">Web Designer</h3>
+<h3 align="left">Web Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajibrahman74&label=Profile%20views&color=0e75b6&style=flat" alt="rajibrahman74" /> </p>
 
