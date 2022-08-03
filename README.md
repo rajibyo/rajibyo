@@ -1,6 +1,6 @@
+![Web Designer](https://github.com/rajibrahman74/rajibrahman74/blob/main/github-header-image%20(3).png)
 ### Hey!🙋‍♂️ Assalamualaikum, I'm Rajib Rahman
 #### Web Designer
-![Web Designer](https://github.com/rajibrahman74/rajibrahman74/blob/main/github-header-image%20(3).png)
 
 
 Skills: Bootstrap/CSS/HTML
