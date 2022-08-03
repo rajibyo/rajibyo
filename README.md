@@ -1,4 +1,3 @@
-![](https://github.com/rajibrahman74/rajibrahman74/blob/main/github-header-image.png)
 <h1 align="left">Assalamualaikum, I'm Rajib Rahman🙋‍♂️</h1>
 <h3 align="left">Web Designer</h3>
 
