@@ -20,6 +20,3 @@
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" /></div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajibrahman74&" alt="rajibrahman74" /></p>
-![](https://github-readme-stats.vercel.app/api?username=rajibrahman74&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajibrahman74&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibrahman74&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
