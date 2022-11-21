@@ -20,5 +20,6 @@
 
 <h3 align="left">Github Stats:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=rajibrahman74&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 60%" />
-    <br>
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibrahman74&hide_border=true&layout=compact" align="left" style="width: 50%" />
