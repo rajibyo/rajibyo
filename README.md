@@ -19,9 +19,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a target="_blank" href="https://www.w3schools.com/html/default.asp" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a target="_blank" href="https://www.w3schools.com/css/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a target="_blank" href="https://getbootstrap.com" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a target="_blank" href="https://tailwindcss.com/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Github Stats:</h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibrahman74)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibrahman74&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rajibrahman74)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rajibrahman74)    
