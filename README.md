@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajibrahman74&label=Profile%20views&color=0e75b6&style=flat" alt="rajibrahman74" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Frontend Web Development**
 - 📫 How to reach me **rajiburrahman74@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,6 +23,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibrahman74)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibrahman74&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rajibrahman74)    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibrahman74&show_icons=true&count_private=true)
