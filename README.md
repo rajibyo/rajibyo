@@ -37,7 +37,7 @@
                 alt="javascript" width="40" height="40" /> </a>
     </p>
 <br>
-<h3 align="left">Most Used Languages and Github Stats:</h3>
+<h3 align="left">Most Used Languages and GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajibrahman74&show_icons=true&locale=en&layout=compact" alt="rajibrahman74" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajibrahman74&show_icons=true&locale=en" alt="rajibrahman74" /></p>
 
