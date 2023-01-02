@@ -39,8 +39,8 @@
 <h3 align="left">Most Used Languages and GitHub Stats:</h3>
     <div style="display: flex; flex-direction: column;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibrahman74&hide_border=true&layout=compact"
-            align="left" style="width: 40%" />
+            align="left" style="width: 41%" />
         <img src="https://github-readme-stats.vercel.app/api?username=rajibrahman74&show_icons=true&count_private=true&hide_border=true"
-            align="left" style="width: 60%" />
+            align="left" style="width: 59%" />
     </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajibrahman74&" alt="rajibrahman74" /></p>
