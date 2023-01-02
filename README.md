@@ -37,8 +37,10 @@
     </p>
 <br>
 <h3 align="left">Most Used Languages and GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajibrahman74&show_icons=true&locale=en&layout=compact" alt="rajibrahman74" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajibrahman74&show_icons=true&locale=en" alt="rajibrahman74" /></p>
+<h3 align="left">Github Stats:</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=rajibrahman74&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 60%" />
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibrahman74&hide_border=true&layout=compact" align="left" style="width: 50%" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajibrahman74&" alt="rajibrahman74" /></p>
