@@ -39,8 +39,5 @@
 <h3 align="left">Most Used Languages and GitHub Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajibrahman74&show_icons=true&locale=en&layout=compact" alt="rajibrahman74" /></p>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibrahman74&show_icons=true&count_private=true)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajibrahman74&" alt="rajibrahman74" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibrahman74)](https://github.com/anuraghazra/github-readme-stats)
