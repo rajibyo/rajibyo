@@ -1,5 +1,5 @@
 <h3 align="left">Hey!🙋‍♂️ Assalamualaikum, This is Rajib Rahman</h3>
-<h4 align="left" font-weight="bolder">A keen professional Web Development learner from Bangladesh.</h4>
+<h4 style="font-weight: bolder; text-align: center;">A keen professional Web Development learner from Bangladesh.</h4>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajibrahman74&label=Profile%20views&color=0e75b6&style=flat" alt="rajibrahman74" /> </p>
 
