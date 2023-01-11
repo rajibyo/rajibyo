@@ -44,3 +44,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibrahman74&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rajibrahman74)
+
+![GitHub metrics](https://metrics.lecoq.io/rajibrahman74)  
