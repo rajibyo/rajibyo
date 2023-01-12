@@ -39,6 +39,6 @@
 
 <h3 align="left">Most Used Languages and GitHub Stats:</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?(rajibrahman74)](https://github.com/anuraghazra/github-readme-stats)
+[![Rajib's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibrahman74)](https://github.com/rajibrahman74/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajibrahman74&" alt="rajibrahman74" /></p>
