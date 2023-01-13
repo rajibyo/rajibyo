@@ -39,7 +39,7 @@
 
 <h3 align="left">Most Used Languages and GitHub Stats:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibrahman74)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibrahman74&layout=compact)](https://github.com/rajibrahman74/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibrahman74&show_icons=true)  
 
