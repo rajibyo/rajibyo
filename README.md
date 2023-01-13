@@ -41,6 +41,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibrahman74&layout=compact)](https://github.com/rajibrahman74/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rajibrahman74)](https://github.com/anuraghazra/github-readme-stats)
+[![rajib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rajibrahman74)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rajibrahman74)
