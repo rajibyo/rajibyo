@@ -17,7 +17,7 @@
 <a href="https://stackoverflow.com/users/20549386/rajib-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20549386/rajib-rahman" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="left">Frontend skills:</h3>
+<h3 align="left">Front-End skills:</h3>
 <p align="left"> <a target="_blank" href="https://www.w3schools.com/html/default.asp" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
                 alt="html5" width="40" height="40" /> </a>
