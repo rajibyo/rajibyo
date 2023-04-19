@@ -1,7 +1,7 @@
 <h3 align="left">Hey🙋‍♂️Assalamualaikum🫡 This is Rajib Rahman</h3>
 <h4 align="center">A keen professional Web Development learner from Titan👀</h4>
 <h5 align="right">a Crazy fan of <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>🫰</h5>
-* * *
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajibrahman74&label=Profile%20views&color=0e75b6&style=flat" alt="rajibrahman74" /> </p>
 
 - 🌱 I’m currently learning ****MERN Stack Development****
