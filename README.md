@@ -1,7 +1,6 @@
 <h3 align="left">🎩 Well met, I'm Rajibur Rahman! 🌌 Peace be upon you 🌠</h3>
 <h4 align="center">A keen professional Web Development learner👀</h4>
 <h5 align="right">a Crazy fan of <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>🫰</h5>
-<hr>
 # #💫 About Me:
 🔭 Developing user-focused frontends with Next.js, React, and Vue  <br>👯 Open to design-driven collaborations  <br>🤝 Building advanced React and Next skills  <br>💬 Ask me about responsive, efficient interfaces  <br>⚡ Passionate about maximum performance
 
