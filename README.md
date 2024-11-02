@@ -2,7 +2,7 @@
 <h4 align="center">A keen professional Web Development learner👀</h4>
 <h5 align="right">a Crazy fan of <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>🫰</h5>
 <hr>
-# 💫 About Me:
+# #💫 About Me:
 🔭 Developing user-focused frontends with Next.js, React, and Vue  <br>👯 Open to design-driven collaborations  <br>🤝 Building advanced React and Next skills  <br>💬 Ask me about responsive, efficient interfaces  <br>⚡ Passionate about maximum performance
 
 
@@ -15,9 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=rajibyo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajibyo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibyo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rajibyo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rajibyo&icon=0&color=0)](https://visitcount.itsvg.in)
