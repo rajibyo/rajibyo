@@ -1,5 +1,5 @@
 <h3 align="left">🎩 Well met, I'm Rajibur Rahman! 🌌 Peace be upon you 🌠</h3>
-<h4 align="center">A keen professional Web Development learner👀</h4>
+<h4 align="center">A keen learner of Web Development 👀</h4>
 <h5 align="right">a Crazy fan of <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>🫰</h5>
 
 
